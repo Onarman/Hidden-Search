@@ -14,19 +14,36 @@ body{
 }
 
 
-
+.search{
+    position: relative;
+    height: 3rem;
+    
+}
 .search .input{
     width: 12rem;
     height: 3rem;
     color: #fff;
     border: none;
-    border-radius: 1.2rem;
+    border-radius:  1.2rem 0 0 1.2rem  ;
     font-size: 1rem;
     transition: width 0.35s ease; 
+    padding: 15px;
+    background-color: rgb(46, 41, 41);
 }
 
 
-.fa-magnifying-glass{
-    /* height: 2rem; */
-    
+.btn{
+    position: absolute;
+    background-color: rgb(46, 41, 41);
+    border: 0;
+    font-size: 1.5rem;
+    color: black;
+    top:0 ;
+    height: 3rem;
+    transition: width 0.35s ease; 
+    cursor: pointer;
+    border-radius: 0 1.2rem 1.2rem 0 ;
+    color: rgb(171, 163, 163);
+    padding-right: 15px;
 }
+
