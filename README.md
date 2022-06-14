@@ -1,2 +1,2 @@
 # Hidden-Search
-[Click Me](/https://onarman.github.io/Hidden-Search/)
+[Click Me](https://onarman.github.io/Hidden-Search/)
